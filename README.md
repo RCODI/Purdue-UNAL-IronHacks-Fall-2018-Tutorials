@@ -163,8 +163,9 @@ En esta sesión se hablará sobre usabilidad, a continuación pueden entrar mate
 ### Sesión de apoyo 4
 <i><small>Grupos 1 y 2 (Profesor Nicolás) **INCLUIRFECHA** - 4:00pm - 6:00pm)</small></i><br>
 <i><small>Grupo 3 (Profesor Edgar) **INCLUIRFECHA** - 4:00pm - 6:00pm)</small></i><br>
+Esta es la última sesión de apoyo, los profesores encargados y el estudiante embajador los ayudarán a resolver los problemas que tengan antes de la última entrega.<br>
 
-###FAQ
+### FAQ
 
 1. ¿Es necesario enviar una nueva versión de mi app en cada fase o puedo solamente enviar la utlima versión en la fase final?
 * Es necesario realizar al menos 1 nueva versión de la aplicación mediante la plataforma en cada una de las 5 fases. Un commit implica código útil para lograr el resultado final, commits vacíos o con código basura no cumplen con este requerimiento.
@@ -175,9 +176,9 @@ En esta sesión se hablará sobre usabilidad, a continuación pueden entrar mate
 * Es necesario seguir el código de honor de Purdue: Al menos el 50% de tu aplicación debe ser código personal. Las librerias oficiales no son consideradas cuando se verifica el cumplimiento de esta regla. Es obligatorio proveed creditos oficiales a los autores originales cuando se entrega la aplicación en cada una de las rondas (Nota: Tenemos algoritmos para verificar el cumplimiento de esta norma)
 
 4. ¿Puedo discutir temas de la competencia fuera de las herramientas que me da IronHacks?
-* No, todas las discusiones generales deben ser realizadas mediante el foro disponible en www.IronHacks.com . No se permite discutir las entregas con otros competidores por fuera de este foro. El acceso a los resultados se encuentra en www.IronHacks.com/results. El dashboard contiene información confidencial.***NO debe compartirse***
+* No, todas las discusiones generales deben ser realizadas mediante el foro disponible en www.IronHacks.com . No se permite discutir las entregas con otros competidores por fuera de este foro. El acceso a los resultados se encuentra en www.IronHacks.com/results. El dashboard contiene información confidencial. ***NO debe compartirse***
 
 5. ¿Si no completé las encuestas antes o después de la competencia, puedo aplicar para ganar un premio?
 * Todo concursante debe finalizar las encuestas pre y post-hack para poder ganar uno de los premios.
 
-Esta es la última sesión de apoyo, los profesores encargados y el estudiante embajador los ayudarán a resolver los problemas que tengan antes de la última entrega. <br># Purdue Gold IronHacks Otoño 2018 Tutorials
+<br># Purdue Gold IronHacks Otoño 2018 Tutorials
