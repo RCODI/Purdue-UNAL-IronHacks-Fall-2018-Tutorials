@@ -95,7 +95,7 @@ google maps https://youtu.be/hwfrZkxLybM
 ## INFORMACIÓN ADICIONAL DE PREPARACIÓN
 <i><small>El concuso inicia el lunes 12 de Noviembre.</small></i><br>
 
-Purdue Gold Ironhacks Otoño 2018 requiere el desarrollo de un mashup, a continuación pueden encontrar la defición de [mashup](https://techterms.com/definition/mashup)**
+Purdue Gold Ironhacks Otoño 2018 requiere el desarrollo de un mashup, a continuación pueden encontrar la defición de **[mashup](https://techterms.com/definition/mashup)**
 
 ### 1. Datasets
 
@@ -134,8 +134,8 @@ En esta sesión se hablará sobre pricipios de diseño y usabilidad, a continuac
 **[Principios de diseño](https://docs.google.com/presentation/d/19nPx9W_mMp1go3D1k25sj4Dhlo4jKTIyCk1-A1zS5eo/edit?ts=59eb94ca#slide=id.p3)**
 
 #### Material de apoyo:
-**[Video sobre usabilidad 1](https://www.dropbox.com/s/skabjjtp1k5bcbp/Tutorial%201of3%20on%20Design%20Elements.mov?dl=0)**<br><br>
-**[Video sobre usabilidad 2](https://www.dropbox.com/s/foiiz5n4mwm6cp7/Tutorial%202of3%20on%20Design%20Principles.mov?dl=0)**<br>
+**[Video sobre usabilidad 1](https://www.youtube.com/watch?v=Rlip6LSp5iA)**<br><br>
+**[Video sobre usabilidad 2](https://www.youtube.com/watch?v=rT4sqdtvoL8)**<br>
 
 ### Sesión de apoyo 2
 <i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 12 de Noviembre - 4:00pm - 6:00pm)</small></i><br>
@@ -150,7 +150,7 @@ En esta sesión se hablará sobre usabilidad, a continuación pueden entrar mate
 **[Usability Heuristics](https://docs.google.com/presentation/d/1MfxG37OUvxEA9C9no1zpE9ZtjUOJqHKJeRptnAiF_Z8/edit?ts=59eb94ea#slide=id.p3)**
 
 #### Material de apoyo:
-**[Video sobre usabilidad 3](https://www.dropbox.com/s/n2z3qsi5bk494qt/Tutorial%203of3%20on%20Usability%20Heuristics.mov?dl=0)**<br>
+**[Video sobre usabilidad 3](https://www.youtube.com/watch?v=PcS8dRvDNjI&t=175s)**<br>
 
 ### Sesión de apoyo 4
 <i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 19 de Noviembre - 4:00pm - 6:00pm)</small></i><br>
