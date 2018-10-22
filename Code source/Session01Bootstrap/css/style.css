@@ -1,0 +1,59 @@
+td,th{
+  font-family: 'Patrick Hand SC', cursive !important;
+  border-collapse: separate;
+  border: #353B40 3px solid !important;
+  text-align: center !important;
+  background-color: #262A2D;
+  color: white;
+  width: 200px;
+}
+
+td,th:hover{
+  color: green;
+  background-color: black;
+}
+
+
+h1{
+  font-family: 'Patrick Hand SC', cursive !important;
+  color: green !important;
+  background-image: url("../images/rickMorty.jpg");
+  height: 250px !important;
+  text-align: center;
+}
+
+p{
+  font-family: 'Patrick Hand SC', cursive !important;
+  position: relative;
+  text-align:left;
+}
+.navigator a button{
+  font-family: 'Patrick Hand SC', cursive !important;
+  width: 200px;
+  color: white;
+  background-color: #262A2D;
+  border: #353B40 3px solid !important;
+}
+
+.navigator{
+  padding-left: 150px;
+}
+
+.navigator a button:hover{
+  color: green;
+  background-color: black;
+}
+
+img{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+p{
+  padding-top: 20px;
+  color: white;
+}
+
+body{
+  background: url("../images/chalkboard.jpg")
+}

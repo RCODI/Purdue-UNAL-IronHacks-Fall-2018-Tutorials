@@ -1,0 +1,40 @@
+.title{
+  background-image: url("../images/rickMorty.jpg");
+  width: 1200px;
+  height: 250px !important;
+  color: #3FAE4F;
+  text-align: center;
+  font-family: 'Patrick Hand', cursive;
+}
+
+.navigator a button{
+  width: 200px;
+}
+
+.navigator a button:hover{
+  color: green;
+  background-color: black;
+}
+
+.navigator{
+  padding-left: 150px;
+}
+
+img{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  height: 350px !important;
+}
+
+p{
+  text-align: left;
+  padding-top: 20px;
+}
+
+th,td{
+  border:  blue 3px solid !important;
+  text-align: center !important;
+  border-collapse: separate;
+  width: 100px;
+  height: 50px;
+}
