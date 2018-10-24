@@ -1,7 +1,7 @@
 # Purdue-IronHacks-Fall-2018-Tutorials 
 
-Bienvenidos al Purdue Gold IronHacks - Otoño 2018! A continuación, encontrarán varios vídeo turoriales relacionados con los conocimientos necesarios para resolver el reto de programación que tendrán que afrontar. Les pedimos a todos que revisen todo el material antes del inicio de la competencia. La competencia iniciará el 29 de octubre.
-## Sesión 1
+Bienvenidos al Purdue IronHacks - Otoño 2018! A continuación, encontrarán varios vídeo turoriales relacionados con los conocimientos necesarios para resolver el reto de programación que tendrán que afrontar. Les pedimos a todos que revisen todo el material antes del inicio de la competencia. La competencia iniciará el 29 de octubre.
+## Sesión 1 HTML, CSS, & Bootstrap
 <i><small>Grupos 1 y 2 (Profesor Nicolás) lúnes 29 de Octubre)</small></i><br>
 
 ### Tutorial HTML - CSS
@@ -45,7 +45,7 @@ html css https://youtu.be/o74YX3koXPY
 bootstrap https://youtu.be/IdUHGzKSoBI
 google maps https://youtu.be/hwfrZkxLybM
 -->
-## Sesión 2
+## Sesión 2 Javascript - jQuery
 <i><small>Grupos 1 y 2 (Profesor Nicolás) miércoles 31 de Octubre - 4:00pm - 6:00pm)</small></i><br>
 
 ### Tutorial Javascript - jQuery
@@ -66,7 +66,7 @@ google maps https://youtu.be/hwfrZkxLybM
 ### Quiz sesión 2:
 **[Quiz - Javascript](http://www.ironhacks.com/quizzes)**: Este quiz es OBLIGATORIO y tendrá nota en el curso. Deben terminarlo ANTES de que acabe la clase, es decir, antes de las 6:00pm.<br>
 
-## Sesión 3
+## Sesión 3 Google Maps API
 <i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 5 de Noviembre - 4:00pm - 6:00pm)</small></i><br>
 
 ### Tutorial Google Maps API
@@ -79,7 +79,7 @@ google maps https://youtu.be/hwfrZkxLybM
 ### Quiz sesión 3:
 **[Quiz - Google Maps API](http://www.ironhacks.com/quizzes)**: Este quiz es OBLIGATORIO y tendrá nota en el curso. Deben terminarlo ANTES de que acabe la clase, es decir, antes de las 6:00pm.<br>
 
-## Sessión 4
+## Sessión 4 D3.js
 <i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 5 de Noviembre - 4:00pm - 6:00pm)</small></i><br>
 
 ### Tutorial D3.js
@@ -95,37 +95,13 @@ google maps https://youtu.be/hwfrZkxLybM
 ## INFORMACIÓN ADICIONAL DE PREPARACIÓN
 <i><small>El concuso inicia el lunes 12 de Noviembre.</small></i><br>
 
-Purdue Gold Ironhacks Otoño 2018 requiere el desarrollo de un mashup, a continuación pueden encontrar la defición de **[mashup](https://techterms.com/definition/mashup)**
+Purdue Ironhacks Otoño 2018 requiere el desarrollo de un mashup, a continuación pueden encontrar la defición de **[mashup](https://techterms.com/definition/mashup)**
 
-### 1. Datasets
-
-El regalmento de Ironhacks demarca como requerimiento OBLIGATORIO el uso de datos abiertos en la solución del problema, a continuación encontrarán una lista de los datasets disponibles para ser utilizados:
-
-- **[Lista de datasets]()**
-
-Además de eso, el uso de los siguientes datasets es obligatorio:
-- **[Datasets Obligatorios]()** <br>
-
-Si quieres aprender más sobre fuentes de datos libres, vista:
+En este hack puedes revisar las diferentes fuentes de datos libres, proporcionadas por medio de: 
 - **[Data.gov](https://www.data.gov)** -- Official site of the US Government
-- **[Open Indy Data Portal](http://data.indy.gov/)** -- Official site of the State of Indiana for open data
-
-Puedes leer un poco más sobre datasets [aquí.](Datasets.md)
-
-### 2. Librerías permitidas:
-
-El concurso tiene una lista específica de librerías que pueden ser utilizadas para resolver el reto. El uso de librerías distintas a las que se encuentran en la lista será penalizado. 
-
-- **[Lista de librerías](https://docs.google.com/document/d/1q1ZeBq49WPHpAJ1b7rAXogD5UiNubilQss4Wc_4-bGc/edit?usp=sharing)**
-
-### 3. Archivo Readme.md
-Por favor asegurense de que su proyecto contenga un archivo readme que siga la siguiente estructura:
-**[Example README](readme_template)**<br>
-El archivo readme DEBE ser escrito en inglés.
-
 
 ## Sesiones de apoyo durante el desarrollo del concurso:
-### Sesión de apoyo 1
+## Sesión 5 Diseño I
 <i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 12 de Noviembre - 4:00pm - 6:00pm)</small></i><br>
 
 #### Diseño I:
@@ -137,12 +113,12 @@ En esta sesión se hablará sobre pricipios de diseño y usabilidad, a continuac
 **[Video sobre usabilidad 1](https://www.youtube.com/watch?v=Rlip6LSp5iA)**<br><br>
 **[Video sobre usabilidad 2](https://www.youtube.com/watch?v=rT4sqdtvoL8)**<br>
 
-### Sesión de apoyo 2
+## Sesión 6 visualización de información 
 <i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 12 de Noviembre - 4:00pm - 6:00pm)</small></i><br>
-
+#### Visualización de información
 En esta sesión se atenderán dudas sobre visualización de información, además, el estudiante emajador brindará apoyo técnico para la solución del problema.
 
-### Sesión de apoyo 3
+## Sesión 7 Diseño II
 <i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 19 de Noviembre - 4:00pm - 6:00pm)</small></i><br>
 
 #### Diseño II:
@@ -152,7 +128,7 @@ En esta sesión se hablará sobre usabilidad, a continuación pueden entrar mate
 #### Material de apoyo:
 **[Video sobre usabilidad 3](https://www.youtube.com/watch?v=PcS8dRvDNjI&t=175s)**<br>
 
-### Sesión de apoyo 4
+## Sesión 8
 <i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 19 de Noviembre - 4:00pm - 6:00pm)</small></i><br>
 
 
