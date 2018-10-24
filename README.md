@@ -136,20 +136,8 @@ Esta es la última sesión de apoyo, los profesores encargados y el estudiante e
 
 ## Información adicional
 
-### Datasets
-
-El regalmento de Ironhacks demarca como requerimiento OBLIGATORIO el uso de datos abiertos en la solución del problema, a continuación encontrarán una lista de los datasets disponibles para ser utilizados:
-
-- **[Lista de datasets]()**
-
-Además de eso, el uso de los siguientes datasets es obligatorio:
-- **[Datasets Obligatorios]()** <br>
-
 Si quieres aprender más sobre fuentes de datos libres, vista:
 - **[Data.gov](https://www.data.gov)** -- Official site of the US Government
-- **[Open Indy Data Portal](http://data.indy.gov/)** -- Official site of the State of Indiana for open data
-
-Puedes leer un poco más sobre datasets [aquí.](Datasets.md)
 
 ### Librerías permitidas:
 
