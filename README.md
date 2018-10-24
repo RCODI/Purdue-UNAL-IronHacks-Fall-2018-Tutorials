@@ -133,3 +133,26 @@ En esta sesión se hablará sobre usabilidad, a continuación pueden entrar mate
 
 
 Esta es la última sesión de apoyo, los profesores encargados y el estudiante embajador los ayudarán a reolver los problemas que tengan antes de la última entrega. <br>
+
+## Información adicional
+
+### Datasets
+
+El regalmento de Ironhacks demarca como requerimiento OBLIGATORIO el uso de datos abiertos en la solución del problema, a continuación encontrarán una lista de los datasets disponibles para ser utilizados:
+
+- **[Lista de datasets]()**
+
+Además de eso, el uso de los siguientes datasets es obligatorio:
+- **[Datasets Obligatorios]()** <br>
+
+Si quieres aprender más sobre fuentes de datos libres, vista:
+- **[Data.gov](https://www.data.gov)** -- Official site of the US Government
+- **[Open Indy Data Portal](http://data.indy.gov/)** -- Official site of the State of Indiana for open data
+
+Puedes leer un poco más sobre datasets [aquí.](Datasets.md)
+
+### Librerías permitidas:
+
+El concurso tiene una lista específica de librerías que pueden ser utilizadas para resolver el reto. El uso de librerías distintas a las que se encuentran en la lista será penalizado. 
+
+- **[Lista de librerías](https://docs.google.com/document/d/1q1ZeBq49WPHpAJ1b7rAXogD5UiNubilQss4Wc_4-bGc/edit?usp=sharing)**
